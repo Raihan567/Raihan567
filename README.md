@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about , JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about , JavaScript, Freelancing Opportunites, Job Opportunities and Open Source 
 
 - 📫 How to reach me **aburaihansarker567@gmail.com**
 <br>
