@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan567&label=Profile%20views&color=0e75b6&style=flat" alt="raihan567" /> </p>
  <h3>About me:😎</h3>
- - ❤ I Enjoy Programming
  
- -💻 I spend most of my time coding and learning
+- ❤ I Enjoy Programming
+ 
+- 💻 I spend most of my time coding and learning
  
 - 🔭 I’m currently working on JavaScript, Github Project
 
