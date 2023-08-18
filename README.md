@@ -13,12 +13,12 @@
 
 - I’m currently learning JavaScript, Next.js, Node.js, Express.js, MongoDB
 
-- I’m looking to collaborate on Projects,Tech Articles
+- I’m looking to collaborate on Projects, Tech Articles
 
-- Talk to me about , JavaScript, Freelancing Opportunities, Job Opportunities
+- Talk to me about, JavaScript, Freelancing Opportunities, Job Opportunities
   and Open Source
 
-- 📫 How to reach me **aburaihansarker567@gmail.com** <br>
+- 📫 How to reach me **contact.aburaihan@gmail.com** <br>
 
 
 ## 🌐 Socials:
