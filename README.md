@@ -1,23 +1,23 @@
 ![banner-image](./asset/Abu%20Raihan.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan567&label=Profile%20views&color=0e75b6&style=flat" alt="raihan567" /> </p>
-
  <h3>About me:</h3>
 
-- I Enjoy Programming ❤
+Passionate about programming, I am a dedicated front-end developer specializing
+in JavaScript and various web technologies. My days are immersed in code as I
+continuously learn, striving to enhance my skills and craft exceptional web
+applications. At the heart of my journey lies a GitHub project where I leverage
+Next.js, React.js, MongoDB, and TailwindCss to construct dynamic, responsive
+websites.
 
-- I spend most of my time coding and learning
+<br> <br> Collaboration fuels my spirit. Engaging with fellow
+developers on projects and tech articles fuels my desire to contribute to the
+programming community. I warmly welcome discussions on JavaScript, freelancing,
+job prospects, and open source.
 
-- I’m currently working on JavaScript, Github Project
-
-- I’m currently learning JavaScript, Next.js, Node.js, Express.js, MongoDB
-
-- I’m looking to collaborate on Projects, Tech Articles
-
-- Talk to me about, JavaScript, Freelancing Opportunities, Job Opportunities and
-  Open Source
-
-- 📫 How to reach me **contact.aburaihan@gmail.com** <br>
+ <br> <br> For stimulating conversations about
+these topics or to explore potential ventures, feel free to reach out to me at
+<b> contact.aburaihan@gmail.com. </b> Let's connect and shape the future of web
+development together.
 
 ## 🌐 Socials:
 
@@ -57,7 +57,7 @@
 
 ## **Projects:**
 
-### [Project Name 1]
+<!-- ### [Project Name 1]
 
 - **Description:** [Provide a brief overview of the project, its purpose, and
   your role in it.]
@@ -75,7 +75,7 @@
   in the project.]
 - **GitHub Repository:** [Link to the project's GitHub repository, if
   available.]
-- **Live Demo:** [If the project is deployed, provide a link to the live demo.]
+- **Live Demo:** [If the project is deployed, provide a link to the live demo.] -->
 
 # 📊 GitHub Stats:
 
@@ -83,8 +83,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raihan567&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan567&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan567&label=Profile%20views&color=0e75b6&style=flat" alt="raihan567" /> </p>
