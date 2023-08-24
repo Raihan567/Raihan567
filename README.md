@@ -1,23 +1,22 @@
 ![banner-image](./asset/Abu%20Raihan1.png)
 
- <h3>About me:</h3>
+## About me: </>
 
-Passionate about programming, I am a dedicated front-end developer specializing
+* Passionate about programming, I am a dedicated front-end developer specializing
 in JavaScript and various web technologies. My days are immersed in code as I
 continuously learn, striving to enhance my skills and craft exceptional web
 applications. At the heart of my journey lies a GitHub project where I leverage
 Next.js, React.js, MongoDB, and TailwindCss to construct dynamic, responsive
 websites.
 
-<br> <br> Collaboration fuels my spirit. Engaging with fellow
-developers on projects and tech articles fuels my desire to contribute to the
-programming community. I warmly welcome discussions on JavaScript, freelancing,
-job prospects, and open source.
+* Collaboration fuels my spirit. Engaging with fellow developers on projects
+and tech articles fuels my desire to contribute to the programming community. I
+warmly welcome discussions on JavaScript, freelancing, job prospects, and open
+source.
 
- <br> <br> For stimulating conversations about
-these topics or to explore potential ventures, feel free to reach out to me at
-<b> contact.aburaihan@gmail.com. </b> Let's connect and shape the future of web
-development together.
+*  For stimulating conversations about these topics or to explore potential
+ventures, feel free to reach out to me at <b> contact.aburaihan@gmail.com. </b>
+Let's connect and shape the future of web development together.
 
 ## 🌐 Socials:
 
