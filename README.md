@@ -1,25 +1,23 @@
-<h1 align="center">Abu < Raihan / > Frontend Developer</h1>
-<h3 align="center">Your passionate Programmer</h3>
-![](https://media.licdn.com/dms/image/D5616AQGCa4AA_jNR9g/profile-displaybackgroundimage-shrink_350_1400/0/1692873089322?e=1698278400&v=beta&t=KVKW_rTx8K7naDvnLhxqjwH9tJBaeNXhHLrQoE01wCw)
+![banner-image](./asset/Abu%20Raihan.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihan567&label=Profile%20views&color=0e75b6&style=flat" alt="raihan567" /> </p>
 
  <h3>About me:</h3>
- 
-- I Enjoy Programming ❤ 
- 
+
+- I Enjoy Programming ❤
+
 - I spend most of my time coding and learning
- 
+
 - I’m currently working on JavaScript, Github Project
 
 - I’m currently learning JavaScript, Next.js, Node.js, Express.js, MongoDB
 
 - I’m looking to collaborate on Projects, Tech Articles
 
-- Talk to me about, JavaScript, Freelancing Opportunities, Job Opportunities
-  and Open Source
+- Talk to me about, JavaScript, Freelancing Opportunities, Job Opportunities and
+  Open Source
 
 - 📫 How to reach me **contact.aburaihan@gmail.com** <br>
-
 
 ## 🌐 Socials:
 
@@ -58,20 +56,26 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## **Projects:**
+
 ### [Project Name 1]
 
-- **Description:** [Provide a brief overview of the project, its purpose, and your role in it.]
-- **Technologies Used:** [List the technologies, frameworks, and libraries used in the project.]
-- **GitHub Repository:** [Link to the project's GitHub repository, if available.]
+- **Description:** [Provide a brief overview of the project, its purpose, and
+  your role in it.]
+- **Technologies Used:** [List the technologies, frameworks, and libraries used
+  in the project.]
+- **GitHub Repository:** [Link to the project's GitHub repository, if
+  available.]
 - **Live Demo:** [If the project is deployed, provide a link to the live demo.]
 
 ### [Project Name 2]
 
-- **Description:** [Briefly describe the second project, highlighting its features and your contributions.]
-- **Technologies Used:** [List the technologies, frameworks, and libraries used in the project.]
-- **GitHub Repository:** [Link to the project's GitHub repository, if available.]
+- **Description:** [Briefly describe the second project, highlighting its
+  features and your contributions.]
+- **Technologies Used:** [List the technologies, frameworks, and libraries used
+  in the project.]
+- **GitHub Repository:** [Link to the project's GitHub repository, if
+  available.]
 - **Live Demo:** [If the project is deployed, provide a link to the live demo.]
-
 
 # 📊 GitHub Stats:
 
@@ -84,5 +88,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-
-
